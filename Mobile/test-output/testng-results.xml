@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-19T11:24:54 IST" name="Suite" finished-at="2022-09-19T11:27:09 IST" duration-ms="134520">
+    <groups>
+    </groups>
+    <test started-at="2022-09-19T11:24:54 IST" name="Test" finished-at="2022-09-19T11:27:09 IST" duration-ms="134520">
+      <class name="Mobile.Homepage">
+        <test-method signature="homepage1()[pri:0, instance:Mobile.Homepage@26d9b808]" started-at="2022-09-19T11:26:35 IST" name="homepage1" finished-at="2022-09-19T11:26:40 IST" duration-ms="4100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage1 -->
+        <test-method signature="homepage2()[pri:0, instance:Mobile.Homepage@26d9b808]" started-at="2022-09-19T11:26:40 IST" name="homepage2" finished-at="2022-09-19T11:26:44 IST" duration-ms="4075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage2 -->
+        <test-method signature="homepage3()[pri:0, instance:Mobile.Homepage@26d9b808]" started-at="2022-09-19T11:26:44 IST" name="homepage3" finished-at="2022-09-19T11:26:48 IST" duration-ms="4278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage3 -->
+        <test-method signature="homepage4()[pri:0, instance:Mobile.Homepage@26d9b808]" started-at="2022-09-19T11:26:48 IST" name="homepage4" finished-at="2022-09-19T11:26:52 IST" duration-ms="4434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage4 -->
+        <test-method signature="homepage5()[pri:0, instance:Mobile.Homepage@26d9b808]" started-at="2022-09-19T11:26:52 IST" name="homepage5" finished-at="2022-09-19T11:26:56 IST" duration-ms="4055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage5 -->
+        <test-method signature="homepage6()[pri:0, instance:Mobile.Homepage@26d9b808]" started-at="2022-09-19T11:26:56 IST" name="homepage6" finished-at="2022-09-19T11:27:00 IST" duration-ms="4015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage6 -->
+        <test-method signature="homepage7()[pri:0, instance:Mobile.Homepage@26d9b808]" started-at="2022-09-19T11:27:00 IST" name="homepage7" finished-at="2022-09-19T11:27:04 IST" duration-ms="4089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage7 -->
+        <test-method signature="homepage8()[pri:0, instance:Mobile.Homepage@26d9b808]" started-at="2022-09-19T11:27:04 IST" name="homepage8" finished-at="2022-09-19T11:27:09 IST" duration-ms="4047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage8 -->
+      </class> <!-- Mobile.Homepage -->
+      <class name="Mobile.signup">
+        <test-method signature="sign(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Mobile.signup@740cae06]" started-at="2022-09-19T11:25:33 IST" name="sign" data-provider="signup" finished-at="2022-09-19T11:25:48 IST" duration-ms="14641" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Monish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bbb]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[monish12@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[934f34]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[15/09/2000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9236540214]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[how u r cmg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method signature="sign(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Mobile.signup@740cae06]" started-at="2022-09-19T11:25:48 IST" name="sign" data-provider="signup" finished-at="2022-09-19T11:26:03 IST" duration-ms="15317" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[monish13@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[934f34]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12/07/2000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9873341114]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[who r u]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method signature="sign(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Mobile.signup@740cae06]" started-at="2022-09-19T11:26:03 IST" name="sign" data-provider="signup" finished-at="2022-09-19T11:26:20 IST" duration-ms="16560" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[monishqwewretretetwwtrtrtrtetret]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[monish234@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[934f34]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[15/09/2001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[876598245]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[hi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method signature="sign(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Mobile.signup@740cae06]" started-at="2022-09-19T11:26:20 IST" name="sign" data-provider="signup" finished-at="2022-09-19T11:26:35 IST" duration-ms="15394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Moni]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[monish34@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[14/06/2001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[973134514635434]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[*]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+      </class> <!-- Mobile.signup -->
+      <class name="Mobile.signin">
+        <test-method signature="sign(java.lang.String,java.lang.String)[pri:0, instance:Mobile.signin@1e6a3214]" started-at="2022-09-19T11:24:54 IST" name="sign" data-provider="login" finished-at="2022-09-19T11:25:06 IST" duration-ms="11647" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Monish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Monish@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method signature="sign(java.lang.String,java.lang.String)[pri:0, instance:Mobile.signin@1e6a3214]" started-at="2022-09-19T11:25:06 IST" name="sign" data-provider="login" finished-at="2022-09-19T11:25:14 IST" duration-ms="8739" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[765f34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method signature="sign(java.lang.String,java.lang.String)[pri:0, instance:Mobile.signin@1e6a3214]" started-at="2022-09-19T11:25:14 IST" name="sign" data-provider="login" finished-at="2022-09-19T11:25:23 IST" duration-ms="8722" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MonishB]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AMD@9880]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method signature="sign(java.lang.String,java.lang.String)[pri:0, instance:Mobile.signin@1e6a3214]" started-at="2022-09-19T11:25:23 IST" name="sign" data-provider="login" finished-at="2022-09-19T11:25:33 IST" duration-ms="10292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+      </class> <!-- Mobile.signin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
